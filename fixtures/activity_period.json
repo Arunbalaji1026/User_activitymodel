@@ -1,0 +1,32 @@
+[
+  {
+    "model": "monitor.ActivityPeriod",
+    "pk": 1,
+    "fields":{
+      "real_name": "Jino J",
+      "tz_location": "Asia/Kolkata",
+      "start_time": "2020-06-09T10:16:06.889886Z",
+      "end_time": "2020-06-09T10:36:06.889886Z"
+    }
+  },
+  {
+    "model": "monitor.ActivityPeriod",
+    "pk": 3,
+    "fields":{
+      "real_name": "Jino J",
+      "tz_location": "Asia/Kolkata",
+      "start_time": "2020-08-09T10:16:06.889886Z",
+      "end_time": "2020-08-09T10:36:06.889886Z"
+    }
+  },
+  {
+    "model": "monitor.ActivityPeriod",
+    "pk": 2,
+    "fields":{
+      "real_name": "Paul McCartney",
+      "tz_location": "Asia/Kolkata",
+      "start_time": "2020-07-09T10:16:06.889886Z",
+      "end_time": "2020-07-09T10:36:06.889886Z"
+    }
+  }
+]
